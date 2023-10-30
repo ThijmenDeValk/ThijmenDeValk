@@ -1,7 +1,8 @@
-# 👋 Hi, I’m Thijmen de Valk
+# 👋 Hi, I’m Thijmen
 
-I'm a product owner and UX designer, but also *love* playing around with code.
+I'm a designer and product manager, but also *love* coding.
 
-- 👀 I’m playing around with TypeScript on client, server *and* embedded
-- 🌱 I’m currently diving into Docker and the wonderful world of containers
-- 📫 Want to reach me? Check out [madebythijmen.nl](https://madebythijmen.nl)
+Currently R&D designer, coder and coach at CKC & partners<br>
+Formerly product owner at Albert Heijn
+
+📫 Want to reach me or see my work? Check out [madebythijmen.nl](https://madebythijmen.nl)
